@@ -6,7 +6,7 @@ void setup() {
 
 // ************************************************************************************ ROW 1
 
-	HRect s1 = new HRect(88);
+	HRect s1 = new HRect(96);
 	s1.noStroke().fill(#ECECEC).loc(50,50);
 	H.add(s1);
 
