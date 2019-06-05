@@ -101,7 +101,7 @@ public void setup() {
 public void draw() {
 
 }
-  public void settings() { 	size(640,640); }
+  public void settings() { 	size(800,800); }
   static public void main(String[] passedArgs) {
     String[] appletArgs = new String[] { "hypeShapes" };
     if (passedArgs != null) {

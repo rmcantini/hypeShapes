@@ -2,7 +2,7 @@ import hype.*;
 
 void setup() {
 	size(800,800);
-	H.init(this).background(#242424);
+	H.init(this).background(#242B424);
 
 // ************************************************************************************ ROW 1
 
